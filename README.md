@@ -2,17 +2,17 @@
 Computer science student at the University of Helsinki. Interested in programming, mathematics, and architecture. Free time activities include piano playing, music production & gym.
 
 ## :computer: LATEST PROJECTS
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/joonarafael/blast-calc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joonarafael&repo=blast-calc&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/joonarafael/visualpathfinder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joonarafael&repo=visualpathfinder&theme=dark" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/joonarafael/jobbaclone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joonarafael&repo=jobbaclone&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/joonarafael/jobbamobileclone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joonarafael&repo=jobbamobileclone&theme=dark" />
 </a>
 
