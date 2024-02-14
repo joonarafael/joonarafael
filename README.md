@@ -9,13 +9,6 @@ Computer science student at the University of Helsinki. Interested in programmin
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joonarafael&repo=visualpathfinder&theme=dark" />
 </a>
 
-<a href="https://github.com/joonarafael/jobbaclone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joonarafael&repo=jobbaclone&theme=dark" />
-</a>
-<a href="https://github.com/joonarafael/jobbamobileclone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joonarafael&repo=jobbamobileclone&theme=dark" />
-</a>
-
 ## :hammer_and_wrench: TOOLS & TECHNOLOGIES
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)
