@@ -2,10 +2,10 @@
 Computer science student at the University of Helsinki. Interested in programming, mathematics, and architecture. Free time activities include piano playing, music production & gym.
 
 ## :computer: LATEST PROJECTS
-<a href="https://github.com/joonarafael/blast-calc">
+<a href="https://blastcalc.vercel.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joonarafael&repo=blast-calc&theme=dark" />
 </a>
-<a href="https://github.com/joonarafael/visualpathfinder">
+<a href="https://visualpathfinder.vercel.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joonarafael&repo=visualpathfinder&theme=dark" />
 </a>
 
