@@ -1,6 +1,5 @@
 ## :wave: ABOUT
-Computer science student at the University of Helsinki. Interested in programming, mathematics, and architecture. Free time activities include piano playing, music production & gym.
-
+Computer science student at the University of Helsinki. Interested in programming, mathematics, and architecture.
 ## :computer: LATEST PROJECTS
 <a href="https://blastcalc.vercel.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joonarafael&repo=blast-calc&theme=dark" />
