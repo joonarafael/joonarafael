@@ -25,3 +25,5 @@ Send me an email at [joona.kettunen21@gmail.com](joona.kettunen21@gmail.com)
 
 ## :bar_chart: STATS
 [![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=joonarafael&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joonarafael&theme=blue-pink)
