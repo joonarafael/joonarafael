@@ -1,5 +1,6 @@
 ## :wave: ABOUT
-Computer science student at the University of Helsinki. Interested in programming, mathematics, and architecture.
+B. Sc. student (Comp. Sci.) at the University of Helsinki. Interested in programming, mathematics, and architecture.
+
 ## :computer: LATEST PROJECTS
 <a href="https://blastcalc.vercel.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joonarafael&repo=blast-calc&theme=dark" />
@@ -9,18 +10,21 @@ Computer science student at the University of Helsinki. Interested in programmin
 </a>
 
 ## :hammer_and_wrench: TOOLS & TECHNOLOGIES
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&color=informational&logo=html5)
-![](https://img.shields.io/badge/Code-TailwindCSS-informational?style=flat&color=informational&logo=tailwindcss)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
-![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&color=informational&logo=python)
+![](https://img.shields.io/badge/-JavaScript-informational?style=flat&color=yellow&logo=javascript)
+![](https://img.shields.io/badge/-TypeScript-informational?style=flat&color=blue&logo=typescript)
+![](https://img.shields.io/badge/-HTML-informational?style=flat&color=orange&logo=html5)
+![](https://img.shields.io/badge/-TailwindCSS-informational?style=flat&color=blue&logo=tailwindcss)
+![](https://img.shields.io/badge/-React-informational?style=flat&color=blue&logo=react)
+![](https://img.shields.io/badge/-Node-informational?style=flat&color=black&logo=node.js)
+![](https://img.shields.io/badge/-Jest-informational?style=flat&color=green&logo=jest)
+![](https://img.shields.io/badge/-Python-informational?style=flat&color=yellow&logo=python)
+
+## :mortar_board: CURRENTLY LEARNING
+![](https://img.shields.io/badge/-C++-informational?style=flat&color=blue&logo=c++)
+![](https://img.shields.io/badge/-Haskell-informational?style=flat&color=orange&logo=haskell)
 
 ## :email: CONTACT
-
-Send me an email at [joona.kettunen21@gmail.com](joona.kettunen21@gmail.com)
+Send me an email at [joonarafaelgmail.com](mailto:joonarafaelgmail.com)
 
 ## :bar_chart: STATS
 [![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=joonarafael&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
