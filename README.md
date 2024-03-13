@@ -10,18 +10,18 @@ B. Sc. student (Comp. Sci.) at the University of Helsinki. Interested in program
 </a>
 
 ## :hammer_and_wrench: TOOLS & TECHNOLOGIES
-![](https://img.shields.io/badge/-JavaScript-informational?style=flat&color=informational&logo=javascript)
-![](https://img.shields.io/badge/-TypeScript-informational?style=flat&color=informational&logo=typescript)
-![](https://img.shields.io/badge/-HTML-informational?style=flat&color=informational&logo=html5)
-![](https://img.shields.io/badge/-TailwindCSS-informational?style=flat&color=informational&logo=tailwindcss)
-![](https://img.shields.io/badge/-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/-Node-informational?style=flat&color=informational&logo=node.js)
-![](https://img.shields.io/badge/-Jest-informational?style=flat&color=informational&logo=jest)
-![](https://img.shields.io/badge/-Python-informational?style=flat&color=informational&logo=python)
+![](https://img.shields.io/badge/-JavaScript-informational?style=flat&color=black&logo=javascript)
+![](https://img.shields.io/badge/-TypeScript-informational?style=flat&color=black&logo=typescript)
+![](https://img.shields.io/badge/-HTML-informational?style=flat&color=black&logo=html5)
+![](https://img.shields.io/badge/-TailwindCSS-informational?style=flat&color=black&logo=tailwindcss)
+![](https://img.shields.io/badge/-React-informational?style=flat&color=black&logo=react)
+![](https://img.shields.io/badge/-Node-informational?style=flat&color=black&logo=node.js)
+![](https://img.shields.io/badge/-Jest-informational?style=flat&color=black&logo=jest)
+![](https://img.shields.io/badge/-Python-informational?style=flat&color=black&logo=python)
 
 ## :mortar_board: CURRENTLY LEARNING
-![](https://img.shields.io/badge/-C++-informational?style=flat&color=informational&logo=c++)
-![](https://img.shields.io/badge/-Haskell-informational?style=flat&color=informational&logo=haskell)
+![](https://img.shields.io/badge/-C++-informational?style=flat&color=black&logo=c++)
+![](https://img.shields.io/badge/-Haskell-informational?style=flat&color=black&logo=haskell)
 
 ## :email: CONTACT
 Send me an email at [joonarafaelgmail.com](mailto:joonarafaelgmail.com)
