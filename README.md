@@ -8,6 +8,9 @@ B. Sc. student (Comp. Sci.) at the University of Helsinki. Interested in program
 <a href="https://visualpathfinder.vercel.app/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joonarafael&repo=visualpathfinder&theme=dark" />
 </a>
+<a href="https://github.com/joonarafael/tiirascraper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joonarafael&repo=tiirascraper&theme=dark" />
+</a>
 
 ## :hammer_and_wrench: TOOLS & TECHNOLOGIES
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&color=black&logo=javascript)
