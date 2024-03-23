@@ -2,10 +2,10 @@
 B. Sc. student (Comp. Sci.) at the University of Helsinki. Interested in programming, mathematics, and architecture.
 
 ## :computer: LATEST PROJECTS
-<a href="https://blastcalc.vercel.app/">
+<a href="https://github.com/joonarafael/blast-calc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joonarafael&repo=blast-calc&theme=dark" />
 </a>
-<a href="https://visualpathfinder.vercel.app/">
+<a href="https://github.com/joonarafael/visualpathfinder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joonarafael&repo=visualpathfinder&theme=dark" />
 </a>
 <a href="https://github.com/joonarafael/tiirascraper">
