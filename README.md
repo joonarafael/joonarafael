@@ -8,6 +8,9 @@ B. Sc. student (Comp. Sci.) at the University of Helsinki. Interested in program
 <a href="https://github.com/joonarafael/tiirascraper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joonarafael&repo=tiirascraper&theme=dark" />
 </a>
+<a href="https://github.com/joonarafael/spotisaver">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joonarafael&repo=spotisaver&theme=dark" />
+</a>
 <a href="https://github.com/joonarafael/blast-calc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joonarafael&repo=blast-calc&theme=dark" />
 </a>
