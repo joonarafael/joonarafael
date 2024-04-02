@@ -30,7 +30,7 @@ B. Sc. student (Comp. Sci.) at the University of Helsinki. Interested in program
 ![](https://img.shields.io/badge/-Haskell-informational?style=flat&color=black&logo=haskell)
 
 ## :email: CONTACT
-Send me an email at [joonarafaelgmail.com](mailto:joonarafaelgmail.com)
+Send me an email at [joonarafael@gmail.com](mailto:joonarafaelgmail.com)
 
 ## :bar_chart: STATS
 [![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=joonarafael&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
