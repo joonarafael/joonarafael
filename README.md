@@ -35,8 +35,10 @@ B. Sc. student (Comp. Sci.) at the University of Helsinki. Interested in program
 ![](https://img.shields.io/badge/Dependabot-informational?style=flat&color=black&logo=dependabot&logoColor=blue)
 
 ## :mortar_board: CURRENTLY LEARNING
-![](https://img.shields.io/badge/-C++-informational?style=flat&color=black&logo=c%2B%2B&logoColor=blue)
-![](https://img.shields.io/badge/-Haskell-informational?style=flat&color=black&logo=haskell&logoColor=orange)
+![](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&color=black&logo=docker)
+![](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&color=black&logo=redis)
+![](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&color=black&logo=amazon-aws)
+![](https://img.shields.io/badge/Cloudflare-F38020?style=flat&color=black&logo=Cloudflare)
 
 ## :email: CONTACT
 Send me an email at [joonarafael@gmail.com](mailto:joonarafaelgmail.com)
