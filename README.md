@@ -1,4 +1,4 @@
-## PORTFOLIO WEBSITE
+## :page_facing_up: PORTFOLIO WEBSITE
 
 Visit my portfolio website <a href="https://joonakettunen.netlify.app">here</a>!
 
