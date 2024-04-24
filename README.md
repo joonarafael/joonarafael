@@ -1,3 +1,7 @@
+## PORTFOLIO WEBSITE
+
+Visit my portfolio website <a href="https://joonakettunen.netlify.app">here</a>!
+
 ## :wave: ABOUT
 B. Sc. student (Comp. Sci.) at the University of Helsinki. Interested in programming, mathematics, and architecture.
 
