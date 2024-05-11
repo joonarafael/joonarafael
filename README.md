@@ -32,7 +32,7 @@ B. Sc. student (Comp. Sci.) at the University of Helsinki. Interested in program
 ![](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=flat&color=black&logo=poetry)
 ![](https://img.shields.io/badge/-Python-informational?style=flat&color=black&logo=python)
 ![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&color=black&logo=mongodb)
-![](https://img.shields.io/badge/postgres-4479A1.svg?style=flat&color=black&logo=postgresql)
+![](https://img.shields.io/badge/Postgres-4479A1.svg?style=flat&color=black&logo=postgresql)
 ![](https://img.shields.io/badge/ChatGPT-informational?style=flat&color=black&logo=openai&logoColor=green)
 ![](https://img.shields.io/badge/Dependabot-informational?style=flat&color=black&logo=dependabot&logoColor=blue)
 
