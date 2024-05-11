@@ -1,6 +1,4 @@
-## :page_facing_up: PORTFOLIO WEBSITE
-
-Visit my portfolio website <a href="https://joonakettunen.netlify.app">here</a>!
+[![Header](https://github.com/joonarafael/joonarafael/blob/main/banner.png?raw=true "Header")](https://joonakettunen.netlify.app)
 
 ## :wave: ABOUT
 B. Sc. student (Comp. Sci.) at the University of Helsinki. Interested in programming, mathematics, and architecture.
@@ -45,8 +43,3 @@ B. Sc. student (Comp. Sci.) at the University of Helsinki. Interested in program
 
 ## :email: CONTACT
 Send me an email at [joonarafael@gmail.com](mailto:joonarafaelgmail.com)
-
-## :bar_chart: STATS
-[![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=joonarafael&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joonarafael&theme=dark)
