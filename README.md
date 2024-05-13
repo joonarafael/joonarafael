@@ -40,6 +40,7 @@ B. Sc. student (Comp. Sci.) at the University of Helsinki. Interested in program
 ![](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&color=black&logo=docker)
 ![](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&color=black&logo=redis)
 ![](https://img.shields.io/badge/Cloudflare-F38020?style=flat&color=black&logo=Cloudflare)
+![](https://img.shields.io/badge/-Cypress-%23E5E5E5?style=flat&color=black&logo=cypress&logoColor=058a5e)
 
 ## :email: CONTACT
 Send me an email at [joonarafael@gmail.com](mailto:joonarafaelgmail.com)
