@@ -18,7 +18,7 @@ B. Sc. student (Comp. Sci.) at the University of Helsinki. Interested in program
 </a>
 
 ## :hammer_and_wrench: TOOLS & TECHNOLOGIES
-![](https://img.shields.io/badge/git-%23F05033.svg?style=flat&color=black&logo=git)
+![](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&color=black&logo=git)
 ![](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&color=black&logo=githubactions)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&color=black&logo=javascript)
 ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&color=black&logo=typescript)
