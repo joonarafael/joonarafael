@@ -1,7 +1,7 @@
 [![Header](https://github.com/joonarafael/joonarafael/blob/main/banner.png?raw=true "Header")](https://joonakettunen.netlify.app)
 
 ## :wave: ABOUT
-B. Sc. student (Comp. Sci.) at the University of Helsinki. Interested in programming, mathematics, and architecture.
+Software Developer & B. Sc. student (Comp. Sci.) at the University of Helsinki. Interested in programming, mathematics, and architecture.
 
 ## :computer: LATEST PROJECTS
 <a href="https://github.com/joonarafael/visualpathfinder">
