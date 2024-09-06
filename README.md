@@ -1,21 +1,7 @@
 [![Header](https://github.com/joonarafael/joonarafael/blob/main/banner.png?raw=true "Header")](https://joonakettunen.netlify.app)
 
 ## :wave: ABOUT
-Software Developer & B. Sc. student (Comp. Sci.) at the University of Helsinki. Interested in programming, mathematics, and architecture.
-
-## :computer: LATEST PROJECTS
-<a href="https://github.com/joonarafael/visualpathfinder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joonarafael&repo=visualpathfinder&theme=dark" />
-</a>
-<a href="https://github.com/joonarafael/tiirascraper">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joonarafael&repo=tiirascraper&theme=dark" />
-</a>
-<a href="https://github.com/joonarafael/spotisaver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joonarafael&repo=spotisaver&theme=dark" />
-</a>
-<a href="https://github.com/joonarafael/blast-calc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joonarafael&repo=blast-calc&theme=dark" />
-</a>
+Aspiring software developer with a passion for web development and a strong foundation in computer science. Currently pursuing a degree in Computer Science at the University of Helsinki, with a focus on web development and software engineering (+ a lot of maths).
 
 ## :hammer_and_wrench: TOOLS & TECHNOLOGIES
 ![](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&color=black&logo=git)
